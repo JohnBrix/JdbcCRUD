@@ -3,7 +3,7 @@
 <h1>Requirements and Tips: </h1>
 <h3>'Java SE8 and MySql'</h3>
 <h3>If you want practice the MVC pattern, this is good oppurtunity for practicsin the MVC Pattern because you will learn how to do a clean code etc.</h3>
-<h3>I did'nt put the preparedStatement, Resultset, Connection close but if you work for a large project you need to close the query everytime you use the example of closing is</h3>
+
 
 
 
@@ -21,6 +21,8 @@
 ![simplecrud](/images/1.png)
 
 <h1> Add this "If you planning to use the query in a large project" </h1>
+
+<h3>I did'nt put the preparedStatement, Resultset, Connection close but if you work for a large project you need to close the query everytime you use the example of closing is</h3>
 
  PreparedStatement ps;
 
