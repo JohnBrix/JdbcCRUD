@@ -3,7 +3,7 @@
 <h1>Requirements and Tips: </h1>
 <h3>'Java SE8 and MySql'</h3>
 <h3>If you want practice the MVC pattern, this is good oppurtunity for practicsin the MVC Pattern because you will learn how to do a clean code etc.</h3>
-<h3>I use different library for the Metro UI Themes big credits for Rojerusan for the Metro UI custom library. </h3>
+
 
 
 
@@ -17,3 +17,7 @@
 <h2>Run your project: </h2>
 
 ![simplecrud](/images/1.png)
+
+<h2>Metro UI Themes</h2>
+
+<h4>I use different libraries and big credits to Rojeru-San for the Metro UI libraries</h4>
