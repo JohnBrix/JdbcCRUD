@@ -52,4 +52,4 @@ If you have a PreparedStatement, ResultSet and Connection always disclose that.
 
 <h2>Metro UI Themes</h2>
 
-<h4>I use different libraries and big credits to Rojeru-San for the Metro UI libraries</h4>
+<h4>I use different libraries and big credits to Rojeru-San for the Metro UI libraries.</h4>
