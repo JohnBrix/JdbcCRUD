@@ -1,4 +1,4 @@
-# SimpleCRUD
+# JdbcCRUD
 
 <h1>Requirements and Tips: </h1>
 <h3>'Java SE8 and MySql'</h3>
